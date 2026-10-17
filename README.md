@@ -20,12 +20,12 @@ ScamShield AI is a Python-based application that helps users identify potential 
 - **User-Friendly Error Handling:** Displays readable messages when the Gemini service cannot connect.
 #### Screenshots
 Main Interface, Rule-Based Detection Results, and Gemini AI Assessment.
-https://github.com/sunnainatanveerda-debug/ScamShield-AI/blob/main/1.png
-https://github.com/sunnainatanveerda-debug/ScamShield-AI/blob/main/2.png
-https://github.com/sunnainatanveerda-debug/ScamShield-AI/blob/main/3.png
-https://github.com/sunnainatanveerda-debug/ScamShield-AI/blob/main/4.png
-https://github.com/sunnainatanveerda-debug/ScamShield-AI/blob/main/5.png
-https://github.com/sunnainatanveerda-debug/ScamShield-AI/blob/main/6.png
+![ScamShield AI Main Interface](1.png)
+![ScamShield AI Main Interface](2.png)
+![ScamShield AI Main Interface](3.png)
+![ScamShield AI Main Interface](4.png)
+![ScamShield AI Main Interface](5.png)
+![ScamShield AI Main Interface](6.png)
 ## 🧠 How It Works
 
 ScamShield AI uses two complementary analysis methods.
