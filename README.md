@@ -18,14 +18,31 @@ ScamShield AI is a Python-based application that helps users identify potential 
 - **Message-Type Safety Checklists:** Displays relevant safety steps for different message categories.
 - **Privacy Notice:** Explains when messages are analyzed locally and when they are sent to Google's Gemini API.
 - **User-Friendly Error Handling:** Displays readable messages when the Gemini service cannot connect.
-#### Screenshots 
-Main Interface, Rule-Based Detection Results, and Gemini AI Assessment.
-![ScamShield AI Main Interface](1.png)
-![ScamShield AI Main Interface](2.png)
-![ScamShield AI Main Interface](3.png)
-![ScamShield AI Main Interface](4.png)
-![ScamShield AI Main Interface](5.png)
-![ScamShield AI Main Interface](6.png)
+## Screenshots
+
+### 1. Main Interface
+![Main Interface](1.png)
+*ScamShield AI interface with privacy notice and usage instructions.*
+
+### 2. Message Input
+![Message Input](2.png)
+*Select a message type and enter suspicious content for analysis.*
+
+### 3. Rule-Based Analysis
+![Rule-Based Analysis](3.png)
+*Detects warning signs and displays an indicator score.*
+
+### 4. Safety Recommendations
+![Safety Recommendations](4.png)
+*Provides practical safety advice and a verification checklist.*
+
+### 5. Gemini AI Assessment
+![Gemini AI Assessment](5.png)
+*Explains why a suspicious message may be risky.*
+
+### 6. Recommended Actions
+![Recommended Actions](6.png)
+*Suggests steps to help users avoid scams and protect personal information.*
 ## 🧠 How It Works
 
 ScamShield AI uses two complementary analysis methods.
